@@ -16,11 +16,14 @@ import ToDoList from './components/ToDoList'
 import UseEffect from './components/useEffect'
 import DigitalClock from './components/DigitalClock'
 import CompA from './components/CompA'
+import StopWatch from './components/StopWatch'
 function App() {
 
   return (
     <>
-      <CompA />
+      <StopWatch />
+      <StopWatch />
+      <StopWatch />
 
     </>
     
